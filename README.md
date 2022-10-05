@@ -1,9 +1,9 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29%2F68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133&imgrefurl=https%3A%2F%2Fgithub.com%2FDevXanderCode&tbnid=YX-6heqmtoyG0M&vet=12ahUKEwjw1Yb93sj6AhWEUXwKHZtNDRcQMygRegUIARCaAg..i&docid=TeTqU7pDsGWskM&w=1240&h=480&q=frontend%20development%20gif%20banner&ved=2ahUKEwjw1Yb93sj6AhWEUXwKHZtNDRcQMygRegUIARCaAg)
+
 <h1 align="center">Hi 👋, I'm Rahul Krishna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkrishna-a&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkrishna-a" /> </p>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **React Js**
 
 - 💬 Ask me about **JS, HTML, CSS**
