@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm a Frontend Developer<br>🆕 Exploring new technologies and developing software solutions.<br>🧩 Open Source
+💻 I'm a Frontend Developer<br>🆕 Exploring new technologies and developing software solutions.<br>🧩 Open Source 
 
 
 ## 🌐 Socials:
