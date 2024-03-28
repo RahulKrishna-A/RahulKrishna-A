@@ -8,6 +8,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkrishna-a&" alt="rahulkrishna-a" /></p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulKrishna-A&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
