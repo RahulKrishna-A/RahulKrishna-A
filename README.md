@@ -1,5 +1,5 @@
 
-🔭 Software Developer<br>👯 I’m looking to collaborate on Full Stack Projects<br>🌱 I’m currently learning Next JS 14<br>
+🔭 Software Developer - Fullstack <br>👯 I’m looking to collaborate on Full Stack Projects<br>🌱 I’m currently working with startups<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-krishnaa28) 
 
