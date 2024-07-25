@@ -1,5 +1,5 @@
 
-🔭 Software Developer - Fullstack <br>👯 I’m looking to collaborate on Full Stack Projects<br>🌱 I’m currently working with startups<br>
+🔭 Software Developer - Full Stack <br>👯 I’m looking to collaborate on Full Stack Projects<br>🌱 I’m currently Building with startups<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-krishnaa28) 
 
