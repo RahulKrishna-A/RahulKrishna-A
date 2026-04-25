@@ -1,14 +1,16 @@
 
-🔭 Software Developer - Full Stack <br>👯 I’m looking to collaborate on Full Stack Projects<br>🌱 I’m currently Building with startups<br>
+🔭 Founding Full Stack Engineer(2x) building and scaling SaaS products from 0→1 <br>👯 Focused on AI agents, RAG systems, and real-time applications  <br>🌱 Enjoy shipping fast, owning end-to-end systems, and building products people actually use  <br>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-krishnaa28) 
 
 ### 🛠 Technologies & Tools  
 
-- **Frontend**: React.js, Next.js, TypeScript, Tailwind CSS  
-- **Backend & Database**: Firebase, Node.js  
-- **Cloud & DevOps**: Google Cloud Platform (GCP), Amazon Route 53  
-- **Payments & Analytics**: Payment Gateways, Mix Panel
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS, Redux Toolkit
+- **Backend & Database**:  Firebase, Cloud Functions, Node.js, Express.js, Qdrant (Vector DB), REST APIs, schedulers, webhooks
+- **Cloud & DevOps**:  AWS Amplify, S3, CloudFront, Route 53, CodePipeline, CodeBuild, Google Cloud, CI/CD, git
+- **Payments & Analytics**:  Razorpay, Cashfree, WhatsApp APIs, Gupshup, email workflows, AWS SNS, Mix Panel
+- **Others**: AI Agents, Firecrawl, Eleven labs, Chrome Extension development
 
 
 
