@@ -2,7 +2,6 @@
 🔭 Founding Full Stack Engineer(2x) building and scaling SaaS products from 0→1 <br>👯 Focused on AI agents, RAG systems, and real-time applications  <br>🌱 Enjoy shipping fast, owning end-to-end systems, and building products people actually use  <br>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-krishnaa28) 
 
 ### 🛠 Technologies & Tools  
 
